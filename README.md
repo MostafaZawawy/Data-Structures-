@@ -56,3 +56,14 @@ b)function that takes a postfix expression as input and shows the value of the e
 as output.
 ### Using implemented queues in C
 a) roundrobin algorithm
+
+## 4) Auto correct using binary search trees
+### If the word exists, prints that the word is correct.
+
+### If the word does not exist, we have three suggestions for the correct word:
+
+• The word in the leaf node you reached before declaring that the word does not exist.
+
+• The word in the inorder predecessor of that leaf node.
+
+• The word in the inorder successor of that leaf node.
