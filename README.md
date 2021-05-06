@@ -46,3 +46,13 @@ g) int areEqual(DoublyLinkedList list1, DoublyLinkedList list2);
 h) void printlnListForward(DoublyLinkedList list);
 
 i) void printlnListBackward(DoublyLinkedList list);
+
+## 3)Stacks and queues
+### Using implemented stacks in C: 
+
+a)function that takes a infix expression as input and convert it to postfix
+
+b)function that takes a postfix expression as input and shows the value of the expression
+as output.
+### Using implemented queues in C
+a) roundrobin algorithm
